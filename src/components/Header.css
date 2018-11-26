@@ -1,0 +1,17 @@
+
+.menu{
+  width: 90%;
+  background-color: #52a7f9;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+}
+
+li{
+  margin-left: 10%;
+  padding-top: 3%;
+  list-style: none;
+  font-weight:bold;
+}

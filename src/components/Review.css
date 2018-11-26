@@ -1,0 +1,19 @@
+.graybox{
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  background-color: #dddee0;
+
+}
+
+.content{
+  padding: 2%;
+  padding-bottom: .5%;
+}
+
+.header1{
+  color: #565a61;
+  margin-bottom: 5%;
+}
